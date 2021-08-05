@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saloni1802
 - 👀 I’m learning coding - starting from Javascript basics
 - 🌱 I’m also onto 3D animation 
-- 💞️ I’m looking to collaborate on videos and applocation development
+- 💞️ I’m looking to collaborate on videos and application development
 - 📫 How to reach me email - salonijain_1802@yahoo.com
 
 <!---
